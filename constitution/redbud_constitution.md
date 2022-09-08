@@ -511,7 +511,7 @@ Neither Von Cramm Cooperative, Inc. nor Von Cramm Hall can operate without suffi
 11. To purchase house gift (see Section VII. “Gift Account”).<sup>18</sup>
 See the Bylaws of Von Cramm, Inc and the Treasurer's Handbook by Jim Moss and Dave Burchfield for a more complete description of these duties.
 
-The compensation for the office of Treasurer includes no HIP, no cook group, and 1/5 off rent for a single room.<sup>34</sup> The treasurer must do a house chore.<sup>29</sup> The treasurer is elected for a year. If conditions surrounding the meal plan (such as low enrollment of outside meal plan members) makes it necessary, the Treasurer must cook. During semesters in which the treasurer cooks, their compensation should be increased to 1/4 off of rent for a single room.<sup>19</sup><sup>,</sup><sup>20</sup>,<sup>29</sup>
+The compensation for the office of Treasurer includes no HIP, no cook group, and 1/5 off rent for a single room.<sup>34</sup> The treasurer must do a house chore.<sup>29</sup> The treasurer is elected for a year. If conditions surrounding the meal plan (such as low enrollment of outside meal plan members) makes it necessary, the Treasurer must cook. During semesters in which the treasurer cooks, their compensation should be increased to 1/4 off of rent for a single room.<sup>19</sup><sup>,</sup><sup>20</sup><sup>,</sup><sup>29</sup>
 
 ## Secretary
 The role of Secretary includes, but is not limited to, responsibility for:
