@@ -416,7 +416,7 @@ Any questions of procedure that are not addressed here and cannot be solved by d
 [2] Passed 11/01/2021
 
 
-# House Officers<sup>1</sup>
+# VII. House Officers<sup>1</sup>
 
 The following section contains an explicit enumeration of Von Cramm officer obligations, with the intent to present a succinct description of responsibilities to aid new officers and, more importantly, to clear up any misunderstandings that may arise among officers as to who does what. This listing is not meant to be a substitute for a good officer handbook.
 
