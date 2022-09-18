@@ -1,7 +1,10 @@
 
 
-# Von Cramm Constitution
-[Proposed and Passed March 2006] [Amended 28 August 2022]
+# Redbud<sup>1</sup> Constitution
+[Proposed and Passed March 2006] [Amended 11 September 2022]
+
+### Footnotes
+* [1] Passed 09/11/2022. Updated all references to the cooperative and building in the constitution.
 
 # Table of Contents
 
@@ -9,7 +12,7 @@
 
 **[II. Membership](https://github.com/Von-Cramm/VC-Constitution/wiki/II.-Membership)**
 * The Selection Process
-* Admission to the Cramm
+* Admission to Redbud
 * Summer
 
 **[III. House Provisions](https://github.com/Von-Cramm/VC-Constitution/wiki/III.-House-Provisions)**
@@ -62,7 +65,7 @@
 **[VIII. House Funds](https://github.com/Von-Cramm/VC-Constitution/wiki/VIII.-House-Funds)**
 * Checking Account
 * Gift Account
-* VC Cares
+* RB Cares
 
 **[IX. Miscellaneous](https://github.com/Von-Cramm/VC-Constitution/wiki/IX.-Miscellaneous)**
 * Pool Table
@@ -82,7 +85,7 @@
 * Infraction of Rules
 
 # I. Rationale
-The House Rules are a record of policies and practices evolved since the Cramm was founded in 1956. They represent the accumulated wisdom of generations of house members<sup>1</sup> in their efforts to run a successful house.
+The House Rules are a record of policies and practices evolved since Redbud was founded in 1956. They represent the accumulated wisdom of generations of house members<sup>1</sup> in their efforts to run a successful house.
 Matters of procedure mimic those found in the Bylaws of Von Cramm, Inc. In an instance where House Rules are found to conflict with the Bylaws, the instance shall proceed in favor of the Bylaws and a note shall be made. The conflict will then be resolved through amendment of either the Rules or Bylaws.
 
 ### Footnotes
@@ -90,21 +93,21 @@ Matters of procedure mimic those found in the Bylaws of Von Cramm, Inc. In an in
 
 # II. Membership
 
-Membership to reside in Von Cramm is open to all full-time Cornell students, undergraduate and graduate.
+Membership to reside in Von Cramm Hall is open to all full-time Cornell students, undergraduate and graduate.
 
 ## The Selection Process
-Admission to reside in Von Cramm for the following academic year is done via a random lottery system. In this system, potential house members<sup>14</sup> are pulled out of a hat or randomly chosen with a computer program where each candidate has an equal probability of being chosen over other candidates.<sup>1</sup> In order to enter the selection system for a room in Von Cramm, all prospective house members<sup>14</sup> must submit a questionnaire or have an oral interview with the current president and go through "Mosey." Mosey consists of at least:<sup>2</sup>
+Admission to reside in Von Cramm Hall for the following academic year is done via a random lottery system. In this system, potential house members<sup>14</sup> are pulled out of a hat or randomly chosen with a computer program where each candidate has an equal probability of being chosen over other candidates.<sup>1</sup> In order to enter the selection system for a room in Von Cramm Hall, all prospective house members<sup>14</sup> must submit a questionnaire or have an oral interview with the current president and go through "Mosey." Mosey consists of at least:<sup>2</sup>
 
 * attending two of the Mosey events
 * helping prepare dinner and attending dinner<sup>3</sup>
 
 Any potential house member<sup>14</sup> may be taken out of the selection pool if a current house member privately or publicly raises a serious concern about living with said potential house member<sup>14</sup> to an officer or the house.<sup>4</sup> The president has the authority to waive Mosey requirements if the situation is appropriate; for example, if those applying do not currently reside in Ithaca, or if the selection is less than a few days away. Normally, two people help the president with Mosey as their house projects.
 
-## Selection for admission to live in the Cramm
-* The number of residents of any one gender identity will not exceed 60% of house occupancy at the time. The exception to this cap is in the case when there are unfilled openings, but the only people left on the waiting list are of the predominating gender. Priority will be given to people who have completed the mosey process even if their acceptance to the Cramm exceeds the cap. However, if the waiting list is exhausted and the house is not yet filled, the spots are opened up to anybody. People are guaranteed a roommate of a gender with which they are comfortable rooming.<sup>5</sup>
-* The number of United States domestic residents will not exceed 90% of the house occupancy at a time. The exception to this cap is in the case when there are unfilled openings, but the only people left on the waiting list are domestic students. Priority will be given to people who have completed the mosey process even if their acceptance to the Cramm exceeds the cap. However, if the waiting list is exhausted and the house is not yet filled, the spots are opened up to anybody.<sup>11</sup>
-* The number of undergraduate residents will not exceed 95% of the house occupancy at a time. The exception to this cap is in the case when there are unfilled openings, but the only people left on the waiting list are undergraduates. Priority will be given to people who have completed the mosey process even if their acceptance to the Cramm exceeds the cap. However, if the waiting list is exhausted and the house is not yet filled, the spots are opened up to anybody.<sup>11</sup>
-* The number of residents who do not identify as people of color will be less than half of the house occupancy at the time. The exception to this cap is in the case when there are unfilled openings but the only people left on the waiting list do not identify as people of color. Priority will be given to people who have completed the mosey process even if their acceptance to the Cramm exceeds the cap. However, if the waiting list is exhausted and the house is not yet filled, the spots are opened up to anybody.<sup>12</sup>
+## Selection for admission to live in Von Cramm Hall
+* The number of residents of any one gender identity will not exceed 60% of house occupancy at the time. The exception to this cap is in the case when there are unfilled openings, but the only people left on the waiting list are of the predominating gender. Priority will be given to people who have completed the mosey process even if their acceptance to Redbud exceeds the cap. However, if the waiting list is exhausted and the house is not yet filled, the spots are opened up to anybody. People are guaranteed a roommate of a gender with which they are comfortable rooming.<sup>5</sup>
+* The number of United States domestic residents will not exceed 90% of the house occupancy at a time. The exception to this cap is in the case when there are unfilled openings, but the only people left on the waiting list are domestic students. Priority will be given to people who have completed the mosey process even if their acceptance to Redbud exceeds the cap. However, if the waiting list is exhausted and the house is not yet filled, the spots are opened up to anybody.<sup>11</sup>
+* The number of undergraduate residents will not exceed 95% of the house occupancy at a time. The exception to this cap is in the case when there are unfilled openings, but the only people left on the waiting list are undergraduates. Priority will be given to people who have completed the mosey process even if their acceptance to Redbud exceeds the cap. However, if the waiting list is exhausted and the house is not yet filled, the spots are opened up to anybody.<sup>11</sup>
+* The number of residents who do not identify as people of color will be less than half of the house occupancy at the time. The exception to this cap is in the case when there are unfilled openings but the only people left on the waiting list do not identify as people of color. Priority will be given to people who have completed the mosey process even if their acceptance to Redbud exceeds the cap. However, if the waiting list is exhausted and the house is not yet filled, the spots are opened up to anybody.<sup>12</sup>
 * People who already have house points are given priority according to the number of points they have.
 * People who identify as low income will have double the chances of being selected from a pool. Income status will not be shared with anyone but the president.<sup>12</sup>
 * Priority is given to those willing to live in a double with a roommate over requests for a single room.<sup>6</sup>
@@ -112,7 +115,7 @@ Any potential house member<sup>14</sup> may be taken out of the selection pool i
 
 The selection process should generate a selection list. It is recommended that the mosey selection take place in a public location, so that the lottery can be monitored by other house members.<sup>13</sup> After the selection, which current house members<sup>14</sup> are invited to participate in, people are contacted and given two days to confirm they will move in. If they don't, the spot will be offered to others, based on the selection list. In the spirit of fairness, no current house member may try to push up a waitlisted member- the waitlist operates strictly on the ordered list.<sup>7</sup> If the list is exhausted, admission becomes first-come first-served, and the Mosey requirements may be dropped.<sup>8</sup>
 
-For the spring semester, the president fills any potential vacancies using the above guidelines, but generally a full mosey process is not conducted. It is suggested that in the fall, when filling spots for the spring, the President remembers to reserve spots for various student populations (international, graduate, and transfer students) in the tradition of keeping Von Cramm a diverse and international community and that the President keep members informed of the mosey process.<sup>9</sup>
+For the spring semester, the president fills any potential vacancies using the above guidelines, but generally a full mosey process is not conducted. It is suggested that in the fall, when filling spots for the spring, the President remembers to reserve spots for various student populations (international, graduate, and transfer students) in the tradition of keeping Redbud a diverse and international community and that the President keep members informed of the mosey process.<sup>9</sup>
 
 ## Summer
 In summer, past, present, and house members<sup>14</sup> with future contracts are given preference for residing in the house. Remaining spaces may be filled on a first-come, first-served basis by non-house members<sup>14</sup> who are affiliated with Cornell (e.g. taking summer courses, participating in a Cornell internship, involved in a Cornell-sponsored summer program, etc.)  See Appendix A for summer housing contract and additional information regarding summer housing.<sup>10</sup>
@@ -165,7 +168,7 @@ Procedure for who has the say about which program to watch is that the first per
 The house has a PC computer. House members<sup>8</sup> may reserve up to seven hours per week of computer time. If someone wants to use the computer but does not have reserve time, and someone is on but it's not reserved, a one-hour waiting list may be initiated. The house provides toner and printer paper.<sup>4</sup>
 
 ## Storage
-The Cramm has space for storage in the attic as well as some closets. Belongings must be labeled with names and dates. House members<sup>8</sup> that move out have two summers to clear out their stuff. Two letters will be sent to the people reminding them during the second summer (provided we have their contact info), and then the stuff will be PC-ed, taken to Salvation Army, or trashed. A person who has already moved out, but who wishes to come back and store items, should ask permission from the present membership. Only past, future, summer, and current house members<sup>8</sup> can store their belongings in the house.<sup>5</sup>
+Von Cramm Hall has space for storage in the attic as well as some closets. Belongings must be labeled with names and dates. House members<sup>8</sup> that move out have two summers to clear out their stuff. Two letters will be sent to the people reminding them during the second summer (provided we have their contact info), and then the stuff will be PC-ed, taken to Salvation Army, or trashed. A person who has already moved out, but who wishes to come back and store items, should ask permission from the present membership. Only past, future, summer, and current house members<sup>8</sup> can store their belongings in the house.<sup>5</sup>
 
 ## Living Room
 A visitor planning to sleep in the living room overnight should seek house permission at a meeting or at dinner. Old house members<sup>8</sup> coming to visit should be informed<sup>6</sup> of this policy, but not kicked out.
@@ -184,7 +187,7 @@ A visitor planning to sleep in the living room overnight should seek house permi
 
 # IV. Meal Plan
 
-Meals are provided starting after house cleanup and ending somewhere toward the end of study week, skipping school holidays, as decided by stewards. Dinners are served Sunday at 6:00pm and Monday through Friday at 7:00 pm. People who cannot make it to the meal can request that a "save plate" be labeled and set aside for them.<sup>1</sup> In addition, house ,members and meal planners<sup>10</sup> can munch on "PC food". Leftovers are PC.   Save plates become PC after 1 pm the next day. It has always been the policy that every meal contains a complete meal for vegetarians, so that if a meat dish is provided, an alternative vegetarian meal should be provided as well. It will be the policy that stewards will make their best attempt to accommodate all dietary restrictions.<sup>2</sup> It is customary to serve meat two days a week.
+Meals are provided starting after house cleanup and ending somewhere toward the end of study week, skipping school holidays, as decided by stewards. Dinners are served Sunday at 6:00pm and Monday through Friday at 7:00 pm. People who cannot make it to the meal can request that a "save plate" be labeled and set aside for them.<sup>1</sup> In addition, house ,members and meal planners<sup>10</sup> can munch on "PC food". Leftovers are PC. Save plates become PC after 1 pm the next day. It has always been the policy that every meal contains a complete meal for vegetarians, so that if a meat dish is provided, an alternative vegetarian meal should be provided as well. It will be the policy that stewards will make their best attempt to accommodate all dietary restrictions.<sup>2</sup> It is customary to serve meat two days a week.
 
 The meal plan is a significant part of membership at the house, so all house members are required to be on the meal plan, except in the case of extenuating circumstances (e.g. disability, severe illness or allergy).  House members who wish to be taken off the meal plan in that case must contact the stewards and the president, and they will be reimbursed for the cost of the meal plan, and will not be able to access any part of the meal plan.  This includes PC food from cook groups and any staples.<sup>9</sup>
 
@@ -192,13 +195,13 @@ House members (and persons on the meal plan) must cook once a week (starting 2.5
 
 The cost of the meal plan for out-of-house persons is the same if they choose to cook and is additional money if they choose not to cook. Stewards at the beginning of the semester can choose the higher cost, and it should be approximately equal to minimum wage* 3.5 hours/week * the number of weeks of the semester’s meal plan + the normal cost of the meal plan. This additional cost is to ensure that the labor of house members is valued.<sup>5</sup> It has been suggested that the meal plan be limited to a maximum of 50 people.
 
-Weekly cook groups, floater positions, or cleaning crew positions are a major responsibility of the meal plan. Failure to complete this responsibility earns the member an infraction. In the case of external meal planners, the same consequences apply but only in relationship to their involvement with the meal plan. For example, accruing three infractions means that the external meal planner will not be permitted to join the meal plan the following semester. Additionally, if an external meal planner receives 3 infractions, they are not awarded Von Cramm house points. Infractions are given immediately following the missed shift. If a substantial amount of the shift is missed but not the entire time (ex. Missing two hours or not attending late night), a half infraction may be given. Stewards assign these infractions, and cook group members can alert stewards or another officer when a member misses a shift. Infractions must be awarded within a week of the missed shift.
+Weekly cook groups, floater positions, or cleaning crew positions are a major responsibility of the meal plan. Failure to complete this responsibility earns the member an infraction. In the case of external meal planners, the same consequences apply but only in relationship to their involvement with the meal plan. For example, accruing three infractions means that the external meal planner will not be permitted to join the meal plan the following semester. Additionally, if an external meal planner receives 3 infractions, they are not awarded Redbud house points. Infractions are given immediately following the missed shift. If a substantial amount of the shift is missed but not the entire time (ex. Missing two hours or not attending late night), a half infraction may be given. Stewards assign these infractions, and cook group members can alert stewards or another officer when a member misses a shift. Infractions must be awarded within a week of the missed shift.
 
 Members of the meal plan may choose to make up their first meal plan infraction<sup>8</sup> and get it removed from their record. To do so, they may either make an arrangement with the people on their cook group (a potential option is to do late night by themselves). Or they may sub for two shifts that are looking for a substitute; in this case, the shift of the person making up for their infraction cannot be taken by the person looking for a sub (this is not a 1:1 switch). The person whose shift is taken up by someone making up an infraction will not be switching with the person who is making up an infraction. It is still required, however, that the person whose shift is taken up by the person making up an infraction will join a cook group within two weeks of the substitution (or at the discretion of the stewards). It is the duty of the meal planner with the infraction to communicate with the stewards when and how they are making up for the infraction, otherwise the infraction cannot be removed. Infractions can be made up only during the semester they are given up until the last meal, and they become permanent after this point.
 
 There are exceptions to this infraction rule based on illness and prelims. In the case of illness—either physical or mental—an infraction may not be given so long as a reasonable effort to find a substitute is made. In respect to mental illness, a reasonable effort might be to inform the stewards 10 minutes before the start of cook group that you are unable to make your shift. In respect to physical illness, a minimum reasonable effort is to send an email to the house with 24 hours notice or at the start of your illness. In the case of a prelim, a house member may receive an infraction, but so long as they sent the listserv an email with at least a week’s notice, they may erase the infraction by doing only one additional cook group. Any further extenuating circumstances are at the discretion of the stewards.<sup>6</sup>
 
-All meat that is used for dinners should be locally sourced. Stewards will be responsible for finding and purchasing meat from farms within 100 miles of Von Cramm. Stewards may decide on the criteria for what farms to choose—but it is recommended that they choose small farms that espouse sustainable land management (grass-fed, organic, etc.) and fair working conditions. Exceptions can be made when the type of meat desired is not locally available. This does not apply to staples available for lunch and other meals.
+All meat that is used for dinners should be locally sourced. Stewards will be responsible for finding and purchasing meat from farms within 100 miles of Von Cramm Hall. Stewards may decide on the criteria for what farms to choose—but it is recommended that they choose small farms that espouse sustainable land management (grass-fed, organic, etc.) and fair working conditions. Exceptions can be made when the type of meat desired is not locally available. This does not apply to staples available for lunch and other meals.
 
 The treasurer should keep track of meat purchases and compare prices to those of non-local meat available at Wegmans. The additional cost of buying local and sustainable food can be subsidized by income from summer rent. No more than 1/6 of summer income can be spent on this per semester—if costs rise above this cap residents must decide whether to abandon the local meat option for the semester or to temporarily increase 6 costs.<sup>7</sup>
 
@@ -227,7 +230,7 @@ It is required that each resident complete an eight-hour House Improvement Proje
 If a HIP is not done for a semester (excluding exempt officers), 2.5 infractions will be issued. The house member<sup>28</sup> can make up the HIP within a semester to remove the infractions from their record.<sup>24</sup>
 
 ## Rooms and Keys
-Anyone on meal plan who does not live in the Cramm will be given the door code. Every house member<sup>28</sup>, upon leaving, is expected to return any room keys. Otherwise, $20 per key will be taken out of the returned incidental fee. If the house manager decides that the lock must be changed, that cost will be deducted from the incidental fee as well.<sup>3</sup>
+Anyone on meal plan who does not live in Von Cramm Hall will be given the door code. Every house member<sup>28</sup>, upon leaving, is expected to return any room keys. Otherwise, $20 per key will be taken out of the returned incidental fee. If the house manager decides that the lock must be changed, that cost will be deducted from the incidental fee as well.<sup>3</sup>
 Every house member<sup>28</sup>, upon moving into their room is required to fill out a Room Inventory & Condition (RIC) form.<sup>24</sup> Every house member<sup>28</sup>, upon moving out of a room, is expected to return room keys to an officer and to arrange to have an officer conduct a brief inspection of the room to ensure the room is left in good order. Failure to fulfill responsibility to have this inspection conducted will result in a $200 fine.<sup>4</sup><sup>5</sup> Leaving a room trashed or with extensive damage as determined by the officer team (excluding any damage asserted by the resident in their RIC form) will result in a $40 fine. The fine for leaving a room trashed or with extensive damage and the fine for failing to conduct an inspection will be billed through Bursar.<sup>24</sup>
 
 ## House Cleanup
@@ -254,24 +257,24 @@ Every cooking group is expected to do late night for that day. Late night involv
 * Sweep and mop the floors
 
 ## Payment
-Housing charges cover everything room, utilities except phone, and meal plan.<sup>8</sup> For non-residents, the meal plan costs the same if they cook, and it costs extra—as determined by the stewards—if the non-resident chooses not to cook. Billing is done once a semester through the Cornell Bursar.<sup>9</sup> Summer residents must pay the upcoming months' rents before they live here and will be billed each month, in addition to having a $200 incidental fee with the house.<sup>10</sup> This incidental fee will be returned in full at the end of a member's residence at Von Cramm minus any charges incurred during their residence as outlined in the Constitution.<sup>24</sup> Summer rent is determined by the following formula:
+Housing charges cover everything room, utilities except phone, and meal plan.<sup>8</sup> For non-residents, the meal plan costs the same if they cook, and it costs extra—as determined by the stewards—if the non-resident chooses not to cook. Billing is done once a semester through the Cornell Bursar.<sup>9</sup> Summer residents must pay the upcoming months' rents before they live here and will be billed each month, in addition to having a $200 incidental fee with the house.<sup>10</sup> This incidental fee will be returned in full at the end of a member's residence at Von Cramm Hall minus any charges incurred during their residence as outlined in the Constitution.<sup>24</sup> Summer rent is determined by the following formula:
 (the current cost of living in a single for a semester) / (50-60) per week.<sup>11</sup> This is rate is for past, current, and future house members<sup>28</sup>; summer rent for non-house members<sup>28</sup> is this rate plus $20. Every house member is also required to pay a semesterly activity fee of $35.<sup>12</sup>
 
 ## Banquet
-At the Cramm, it is customary to have two big banquets, one at the end of each semester. Alumni should be invited to both events.
+At Redbud, it is customary to have two big banquets, one at the end of each semester. Alumni should be invited to both events.
 * Fall semester: The theme has traditionally been “thanksgiving” and it requires semi-formal attire
 * Spring semester: The theme of the banquet is usually decided by taking a vote in the beginning of the semester. The spring banquet doesn’t usually require formal attire.
 All members of the house are required to help with the preparation/cleanup of each banquet regardless of whether or not they choose to attend the event.
 
 ## Social Gatherings<sup>13</sup>
-It is expressly prohibited to hold private gatherings at the Cramm without the consent of 2/3 of house members. Private gatherings are defined as gatherings that are explicitly exclusive of house members. Private gatherings may be held at the house. These must be hosted by one or more house members who are required to take responsibility for all guests at all times during the event. If the house member(s) responsible for hosting the event cannot take on the responsibility or delegate it to another house member, the event may be terminated by any house officer.
+It is expressly prohibited to hold private gatherings at Von Cramm Hall without the consent of 2/3 of house members. Private gatherings are defined as gatherings that are explicitly exclusive of house members. Private gatherings may be held at the house. These must be hosted by one or more house members who are required to take responsibility for all guests at all times during the event. If the house member(s) responsible for hosting the event cannot take on the responsibility or delegate it to another house member, the event may be terminated by any house officer.
 
 ## House Meetings
 House members must attend every house meeting. If two house meetings in a row are missed, the secretary will inform the officers, and an intense interrogation will follow.<sup>14</sup> If a house member must miss a house meeting, he/she must inform the house secretary of this at least 48 hours before the meeting.
 
 ## Points
 Points are awarded on the following basis:
-* Living in the Cramm, and fulfilling responsibilities<sup>27</sup>: 25 
+* Living in Von Cramm Hall, and fulfilling responsibilities<sup>27</sup>: 25 
 * One semester on meal plan only<sup>15</sup>: 10 
 * One semester living in a double room: 10
 * One semester living in a triple room<sup>16</sup>: 15
@@ -282,7 +285,7 @@ If there is no record of how many points a returning house member<sup>28</sup> h
 ## Guestages
 It has generally been the policy that guests have been tolerated (or encouraged) for a week, after which they are expected to pay weekly at the same rate as anyone else, and cook and clean side by side with us. If the stay is long enough, permission should be sought. No squatter's rights have been granted to guests, although they can earn points. However, if the guest stays with someone who has a single, the person with the single doesn't earn points for living in a double.
 
-Anyone who is a guest at Von Cramm for more than two weeks and does not have a local residence is charged 50% of the living cost (excluding meal plan cost) plus the full cost of meal plan if they are on meal plan. Any damage done by a guest will be repaired with money from the host's incidental fee. Special arrangements may be made in extenuating circumstances.<sup>18</sup>
+Anyone who is a guest at Redbud for more than two weeks and does not have a local residence is charged 50% of the living cost (excluding meal plan cost) plus the full cost of meal plan if they are on meal plan. Any damage done by a guest will be repaired with money from the host's incidental fee. Special arrangements may be made in extenuating circumstances.<sup>18</sup>
 
 ## Infractions of responsibilities
 An infraction is committed in the event that a house member does not complete one of the following:
@@ -291,11 +294,11 @@ An infraction is committed in the event that a house member does not complete on
 * Attend house meeting <sup>19</sup>
 * Any other offense deemed serious enough by the house officers.<sup>20</sup>
 
-In the case that a house member commits three (3) infractions, a ⅔ majority of the house vote is taken at the house meeting following the issuing of the third infraction on whether the house member will be permitted to live at the Cramm the following semester. Summer and fall terms are viewed as different semesters under this rule.   If a house member commits five (5) infractions in one semester, a ⅔ majority of the house vote is taken at the house meeting following the issuing of the fifth infraction on whether or not their lease should be terminated immediately. If a house member accumulates 7 or more infractions on their record during their entire time at Von Cramm (non-consecutive), a ⅔ majority of the house vote is taken at the house meeting following the issuing of the third infraction on whether the house member will be permitted to live at the Cramm the following semester. In each situation, any refund is determined by Campus Life (see contract). When the house votes to remove someone in the case that they pose a threat to the mental or physical health of others, two-thirds of the house must agree that the individual poses a threat to the mental or physical health of others in the house, for reasons including but not limited to acts of hate speech, verbal harassment or aggression, and threats to emotional, physical, and social well-being. <sup>26</sup>
+In the case that a house member commits three (3) infractions, a ⅔ majority of the house vote is taken at the house meeting following the issuing of the third infraction on whether the house member will be permitted to live at Von Cramm Hall the following semester. Summer and fall terms are viewed as different semesters under this rule.   If a house member commits five (5) infractions in one semester, a ⅔ majority of the house vote is taken at the house meeting following the issuing of the fifth infraction on whether or not their lease should be terminated immediately. If a house member accumulates 7 or more infractions on their record during their entire time at Von Cramm Hall (non-consecutive), a ⅔ majority of the house vote is taken at the house meeting following the issuing of the third infraction on whether the house member will be permitted to live at Von Cramm Hall the following semester. In each situation, any refund is determined by Campus Life (see contract). When the house votes to remove someone in the case that they pose a threat to the mental or physical health of others, two-thirds of the house must agree that the individual poses a threat to the mental or physical health of others in the house, for reasons including but not limited to acts of hate speech, verbal harassment or aggression, and threats to emotional, physical, and social well-being. <sup>26</sup>
 
-If the house votes for the immediate termination of a house member’s lease, the house member must be given at least two weeks to move out of the Cramm and the Cramm must work to ensure Housing has been secured by the University for said individual. If said member poses a direct threat to safety, or exhibits dangerous behavior then the member shall be removed at the earliest possible date.<sup>26</26>
+If the house votes for the immediate termination of a house member’s lease, the house member must be given at least two weeks to move out of Von Cramm Hall and Redbud must work to ensure Housing has been secured by the University for said individual. If said member poses a direct threat to safety, or exhibits dangerous behavior then the member shall be removed at the earliest possible date.<sup>26</26>
 
-If the house votes not to remove the house member according to the above guidelines, a vote to remove the house member may be taken for each additional full infraction that house member incurs in that semester. The consequences of additional votes may be raised in accordance with the above guidelines (i.e., if the house member first commits 3 infractions and a vote is taken as to whether to allow them to live at the Cramm next semester, but then accrues 2 additional infractions for a total of five infractions, a new vote may be taken on whether or not to terminate the house member’s lease immediately). 
+If the house votes not to remove the house member according to the above guidelines, a vote to remove the house member may be taken for each additional full infraction that house member incurs in that semester. The consequences of additional votes may be raised in accordance with the above guidelines (i.e., if the house member first commits 3 infractions and a vote is taken as to whether to allow them to live at Von Cramm Hall next semester, but then accrues 2 additional infractions for a total of five infractions, a new vote may be taken on whether or not to terminate the house member’s lease immediately). 
 
 If house officers feel that the situation is severe enough such that it is pertinent to hold a vote on the removal of the house member prior to the next house meeting, they may host an electronic ⅔ house majority vote. In this case, the officers should publish a written document outlining the reasoning for each infraction issued alongside the electronic vote. The defendant may also publish together a written document outlining why they believe they should be able to continue living in the cooperative.
 
@@ -327,7 +330,7 @@ The conditions for committing a house meeting infraction are as follows:
 4. Acquiring two unexcused absences from house meetings is grounds for an infraction.
 5. Additionally, three consecutive absences (excused or otherwise) is also grounds for an infraction. Infractions from excused house meeting absences will be discussed by the officers and extenuating circumstances will be considered with empathy.<sup>29</sup> Every additional consecutive absence is grounds for another infraction.<sup>25</sup>
 
-Those who do not plan on living in Von Cramm the following semester but for whom the infraction system applies (including but not restricted to graduating house members, external meal plan members) will be responsible for a fee for each infraction, in addition to making up the cleaning/cooking, etc.  for which the infraction was given. House members agree in signing this constitution, and external meal plan members agree in their meal plan contract. The charges are as follows: {1st infraction $25, 2nd infraction $50, 3rd infraction $100}. Those who prefer may pay the charge through service hours at the rate of the current NYS working wage ($15.11 per hour 2018). The fee is due within four weeks of the date of the infraction for deposit into the checking account. The status of current house members is established by the occupancy sheet for the following semester, which is typically circulated at the first or second house meeting of the semester.<sup>23</sup>
+Those who do not plan on living in Von Cramm Hall the following semester but for whom the infraction system applies (including but not restricted to graduating house members, external meal plan members) will be responsible for a fee for each infraction, in addition to making up the cleaning/cooking, etc.  for which the infraction was given. House members agree in signing this constitution, and external meal plan members agree in their meal plan contract. The charges are as follows: {1st infraction $25, 2nd infraction $50, 3rd infraction $100}. Those who prefer may pay the charge through service hours at the rate of the current NYS working wage ($15.11 per hour 2018). The fee is due within four weeks of the date of the infraction for deposit into the checking account. The status of current house members is established by the occupancy sheet for the following semester, which is typically circulated at the first or second house meeting of the semester.<sup>23</sup>
 
 ![](https://github.com/Von-Cramm/VC-Constitution/blob/master/images/infractions1.PNG)
 ![](https://github.com/Von-Cramm/VC-Constitution/blob/master/images/infractions2.PNG)
@@ -356,7 +359,7 @@ Any exception to the above duties on the part of a member must be approved by 2/
 * [12] Passed 05/02/2010
 * [13] Passed 2006, revised 09/2014
 * [14] Passed 01/19/1992
-* [15] Only give meal plan points to those who do not live at the Cramm, but still eat here
+* [15] Only give meal plan points to those who do not live at Von Cramm Hall, but still eat here
 * [16] Passed 02/25/2018
 * [17] Passed 08/2002
 * [18] Passed 02/07/1993
@@ -390,7 +393,7 @@ Meetings are open to all house members and meal planners<sup>2</sup>, both in-ho
 
 In the case where some action relevant to a particular person is considered, such as an election, discussion should be conducted while the person is out of the room.
 
-An environment should be maintained such that all present feel equally able to express their views. Discrimination based on sex, race, religion, sexual orientation, nationality, political affiliation, marital status, or amount of time in residence at the Cramm is specifically outlawed. People are expected to attend the house meetings free of mind- altering substances.
+An environment should be maintained such that all present feel equally able to express their views. Discrimination based on sex, race, religion, sexual orientation, nationality, political affiliation, marital status, or amount of time in residence at Von Cramm Hall is specifically outlawed. People are expected to attend the house meetings free of mind- altering substances.
 Someone who is drinking or drunk during a meeting may be told to leave.
 
 ## Voting Rules
@@ -418,7 +421,7 @@ Any questions of procedure that are not addressed here and cannot be solved by d
 
 # VII. House Officers<sup>1</sup>
 
-The following section contains an explicit enumeration of Von Cramm officer obligations, with the intent to present a succinct description of responsibilities to aid new officers and, more importantly, to clear up any misunderstandings that may arise among officers as to who does what. This listing is not meant to be a substitute for a good officer handbook.
+The following section contains an explicit enumeration of Redbud officer obligations, with the intent to present a succinct description of responsibilities to aid new officers and, more importantly, to clear up any misunderstandings that may arise among officers as to who does what. This listing is not meant to be a substitute for a good officer handbook.
 
 ## House Officer Review<sup>2</sup>
 Any current member can call a vote of confidence at any house meeting to review performance of a House Officer. If the vote passes under the ‘special’ vote procedure, each responsibility listed in the house rules are voted on in a line item format for non-satisfactory completion and must be passed by ‘special’ vote. House Officer monetary compensation shall be reduced proportionately to unsatisfactory completed tasks.
@@ -440,11 +443,11 @@ They are expected to organize at least one large social event every two weeks an
 In return they are exempt from HIP and chores for the semester. In the case of low house occupancy, they may be required to fulfill half or a full chore.<sup>33</sup> In the event that Fun Team does not fulfill their responsibilities, they will be expected to complete a HIP, or experience the consequences of a normal house member who does not complete a HIP. Fun Team is also required to deliver a brief (5-10 minutes including discussion) status report at the weekly officer meeting.<sup>4</sup>
 
 ## President
-The President is the leader of the house, and determines the direction that Von Cramm heads during his/her term. This includes, but is not limited to:
+The President is the leader of the house, and determines the direction that Redbud heads during his/her term. This includes, but is not limited to:
 1. Chairing House Meetings: The President is responsible for planning, announcing, and running the meetings. They also must plan officer meetings and coordinate officer activities. The President serves as the "glue" which bonds the officers together.
 2. New Members: The President oversees the house members<sup>31</sup> running Mosey and their operations, and this relationship should involve healthy collaboration. The President is ultimately responsible for seeing that the house has a full contingency of resident members.
 3. Contracts and House Rules: The President is responsible for handing out contracts to new and current members, for collecting the contracts, and maintaining a file of signed contracts. The President is also responsible for distributing a copy of the House Rules to all residents and those on external meal plan, and to collect and maintain a file of House Rule Affirmation pages from those people. The President should also make the House Rules available to potential new residents for review.
-4. Liaison: The President serves as the representative of Von Cramm in all dealings with Cornell University (excluding financial matters and House Manager Activities), the police, and extramural groups such as an Inter-Cooperative Union (ICU). The president is always defined as a member of the Von Cramm Board of Directors and is the organic link between the house and its board.
+4. Liaison: The President serves as the representative of Redbud in all dealings with Cornell University (excluding financial matters and House Manager Activities), the police, and extramural groups such as an Inter-Cooperative Union (ICU). The president is always defined as a member of the Redbud Board of Directors and is the organic link between the house and its board.
 5. Secret Baron: The President is encouraged for overseeing Secret Baron, which is a gift exchange between the house members. This includes signing up interested members, and assigning Secret Barons among them, in time to run the event the last week of classes.
 6. Special Events: The President is responsible for overseeing the special events of the house such as community service projects, ICC activities, and other special house activities. This excludes the house social, which the Fun Team runs. The VC President is responsible for coordinating biannual co-operative events.<sup>5</sup>  The VC President is responsible for organizing a mandatory Consent-Ed workshop at the beginning of the semester.<sup>6</sup> 
 7. Cooking: The President may be asked to cook in case there are not enough people (less than three per day) to fill out all cooking groups. If this happens, the secretary, the president, and the house managers should take turns each week to fill out that open spot<sup>7</sup>. House officers, however, should never cook on Sundays since it conflicts with the officer’s meeting. Note that this does not mean that the house officers have to fill out a position in case someone misses his/her cooking group. All cooking groups are responsible for their own assigned days. The President is responsible for house administration and representation. <sup>8</sup>
@@ -461,7 +464,7 @@ The role of House Managers (HMs) is to ensure that Von Cramm Hall is maintained 
 2. House Jobs: The HMs are responsible for ensuring that every non-officer member of the House has a house job and that those jobs are accomplished weekly, and nag slackers to get them done ASAP. They also have the right to post a list of "bad house members<sup>31</sup>" (i.e. those who didn't do their house job).
 3. House Improvement Projects (HIPs): The HMs are responsible for ensuring that each non-officer member has an HM-approved HIP for the semester. Each member is responsible for purchasing the necessary supplies, initiating the HIP, and providing the Treasurer with receipts. HMs are responsible for providing the Treasurer with a list of those people who did not do the HIP, so that $50 can be subtracted from their deposit, as dictated in the House Rules.
 4. Repairs and Maintenance: HMs are responsible for all repair and maintenance of the House. Jobs that they are unable to accomplish themselves must be done by the University or by private contractors, but the responsibility for seeing that they are accomplished resides with the HMs.
-5. Key Control: HMs must ensure that the house key inventory is sufficient and maintained in a secure manner. They are responsible for ensuring that every member has a room key, and that those keys are returned when the member ceases to be a resident of Von Cramm. They are the only persons with authority to handle master keys unless in extenuating circumstances.
+5. Key Control: HMs must ensure that the house key inventory is sufficient and maintained in a secure manner. They are responsible for ensuring that every member has a room key, and that those keys are returned when the member ceases to be a resident of Von Cramm Hall. They are the only persons with authority to handle master keys unless in extenuating circumstances.
 6. Room Assignments: HMs are responsible for ensuring that room assignments are administered in accordance with the House Rules, and that any check-in or check-out procedures are followed.
 7. House Points: HMs keep accurate records of all members' house points.
 8. Deposit charges: HMs keep accurate records of all charges against a person’s deposit, such as damages, failure to complete HIPs, or fines. They are responsible for transmitting this information to the Treasurer at the end of the semester.
@@ -494,20 +497,20 @@ The Stewards are responsible for filling house members' and meal planners'<sup>3
 See the Bylaws of Von Cramm, Inc for a more complete description of these duties. The compensation for the two stewards includes no house job, no cooking, no HIP, and 3/4 off rent for a single room<sup>15</sup>. Stewards are elected for a year.<sup>16</sup>
 
 ## Treasurer
-Neither Von Cramm Cooperative, Inc. nor Von Cramm Hall can operate without sufficient funds. Making sure those funds are available and are used wisely is chiefly the responsibility of the Treasurer of Von Cramm. It is a responsibility not to be taken lightly. The duties of Treasurer of Von Cramm are primarily:
+Neither Redbud Cooperative, Inc. nor Von Cramm Hall can operate without sufficient funds. Making sure those funds are available and are used wisely is chiefly the responsibility of the Treasurer of Redbud. It is a responsibility not to be taken lightly. The duties of Treasurer of Redbud are primarily:
 1. To assure the smooth financial operation of the House
-2. To monitor and pay all legitimate bills owed by Von Cramm
+2. To monitor and pay all legitimate bills owed by Redbud
 3. To act as liaison with Cornell University's Campus Life office in
 *  Establishing rents
 *  Billing residents through the University Bursar system, and
 *  Collecting funds from Campus Life
-4. To maintain accurate records of all income and expenses of Von Cramm
+4. To maintain accurate records of all income and expenses of Redbud
 5. To prepare biannual financial reports for the Board of Directors
 6. To calculate rent requirements and prepare the next year’s budget by late November
 7. To present the budget to the membership for discussion
 8. To provide SMC with monthly reports of all financial transactions
 9. To act as liaison with SMC in preparing quarterly financial statements and annual taxes.
-10. To coordinate Von Cramm’s efforts to maintain charitable actions and donations through VC Cares, an effort established in 2011, and/or involvement in the Inter Cooperative Union (ICU). The House must vote on what the treasurer’s project should be at the beginning of each semester. The treasurer must coordinate with the SHOC to host the VC Cares event. Even if the Treasurer is part of the ICU, the house may vote for another house member to be an ICU Rep.<sup>17</sup>,<sup>29</sup>
+10. To coordinate Redbud’s efforts to maintain charitable actions and donations through VC Cares, an effort established in 2011, and/or involvement in the Inter Cooperative Union (ICU). The House must vote on what the treasurer’s project should be at the beginning of each semester. The treasurer must coordinate with the SHOC to host the VC Cares event. Even if the Treasurer is part of the ICU, the house may vote for another house member to be an ICU Rep.<sup>17</sup>,<sup>29</sup>
 11. To purchase house gift (see Section VII. “Gift Account”).<sup>18</sup>
 See the Bylaws of Von Cramm, Inc and the Treasurer's Handbook by Jim Moss and Dave Burchfield for a more complete description of these duties.
 
@@ -525,7 +528,7 @@ The role of Secretary includes, but is not limited to, responsibility for:
 
 See the Bylaws of Von Cramm, Inc for a more complete description of these duties.
 
-Note: The Secretary should search out ways to record, consolidate and organize the written works of Von Cramm. This may include working with other officers to consolidate handbook materials, conglomerating stuff in the databases, or presenting information (newsletter or important meeting minutes) on our website. One area of overlap: The Secretary should work with the HM to ensure that a scrapbook is made (perhaps as a HIP) at least once a year.
+Note: The Secretary should search out ways to record, consolidate and organize the written works of Redbud. This may include working with other officers to consolidate handbook materials, conglomerating stuff in the databases, or presenting information (newsletter or important meeting minutes) on our website. One area of overlap: The Secretary should work with the HM to ensure that a scrapbook is made (perhaps as a HIP) at least once a year.
 
 The compensation for the position of Secretary includes no cook group, no HIP, 1/5 off rent for a single room.<sup>35</sup> The secretary must do a chore.<sup>23</sup><sup>,</sup><sup>24</sup><sup>,</sup><sup>29</sup>
 
@@ -533,17 +536,17 @@ The Secretary is elected for a year.<sup>25</sup><sup>,</sup><sup>26</sup>
 
 ## Sustainability & Humanitarian Outreach Chair (SHOC)<sup>27</sup>
 
-The role of the SHOC is to ensure Von Cramm works towards environmental sustainability and human equity by minimizing our own impact on the environment and using our resources to work with the greater Cornell, Ithaca, and human community to support and invest in efforts towards systemic change. 
+The role of the SHOC is to ensure Redbud works towards environmental sustainability and human equity by minimizing our own impact on the environment and using our resources to work with the greater Cornell, Ithaca, and human community to support and invest in efforts towards systemic change. 
 
 The word humanitarian in this context is used to emphasize that our environmental efforts must go hand in hand with improving people’s lives, and that it is imperative to act with both sustaining Earth and the human community in mind.
 
-This position has a dynamic role in how it interacts with the co-op, Cornell and Ithaca communities and looks both inwards and outwards. Both the description and goals are intentionally not deliverable-based in order to give the SHOC the ability to shape and improve the duties of the position using their own critical-thinking skills and experience, and the position was conceived as an effort to investigate and expand how Von Cramm can best minimize its impact and leverage its resources and money for environmental and humanitarian goals.
+This position has a dynamic role in how it interacts with the co-op, Cornell and Ithaca communities and looks both inwards and outwards. Both the description and goals are intentionally not deliverable-based in order to give the SHOC the ability to shape and improve the duties of the position using their own critical-thinking skills and experience, and the position was conceived as an effort to investigate and expand how Redbud can best minimize its impact and leverage its resources and money for environmental and humanitarian goals.
 
 The SHOC is a house member elected by the house at the beginning (first house meeting) of each semester to serve a term of one semester. They must be a returning house member. They are responsible for weekly communication with all officers at officer meetings, and biweekly communication of their ideas and actions at house meetings. This transparent and consistent communication is key to the position. Regularly consulting the house with ideas and research before, during, and after acting on them is a critical part of this communication; actively and consistently incorporating house member feedback is an expectation. 
 
 Their responsibilities include, but are not limited to: 
 1.  Pursuing efforts to reduce resource consumption and waste production
-2.  Using Von Cramm’s resources in order to support environmental and humanitarian efforts in alignment with the stated values of our house 
+2.  Using Redbud’s resources in order to support environmental and humanitarian efforts in alignment with the stated values of our house 
 3.  Overseeing compost, recycling, and other waste streams.
 * Taking care of the compost pile.
 * Taking care of bottle return. 
@@ -653,12 +656,12 @@ $200 has been set as the limit for a photo album each year.
 
 Amendments to House Rules must be passed by a 2/3 affirmative vote of members currently residing at the House during fall or spring terms when Cornell University is in session. Amendments made during the academic year shall appear in meeting minutes and shall be noted in attachments to the current version of the House Rules. The attachments will be incorporated into an update of the House Rules by the next academic year. Outdated versions of the House Rules will be archived.
 
-# Appendix A – Von Cramm Summer House Rules
+# Appendix A – Redbud Summer House Rules
 [created April 15, 2010] [Proposed and Passed May 2010]
 
 ## Rationale
 
-These House Rules outline policies and guidelines for behavior for summer house members in hopes of protecting their well-being, preventing conflict, and aiding in conflict resolution. Most of these rules are abridged and adapted from Von Cramm’s constitution to better apply to the summer living situation for members who may or may not be house members<sup>4</sup>. Extra policies have been added that reflect foreseen or past issues particular to the summer.
+These House Rules outline policies and guidelines for behavior for summer house members in hopes of protecting their well-being, preventing conflict, and aiding in conflict resolution. Most of these rules are abridged and adapted from Redbud’s constitution to better apply to the summer living situation for members who may or may not be house members<sup>4</sup>. Extra policies have been added that reflect foreseen or past issues particular to the summer.
 
 
 ## Occupancy Period
@@ -670,7 +673,7 @@ Summer residents may stay longer in certain cases depending on when fall residen
 
 ## Payment
 
-Housing charges cover room, utilities, laundry, staple meal plan and use of common spaces. To officially reserve a room, members who have not already paid Von Cramm’s security deposit must pay the $100 fee and all members must sign a contract. Every house member must pay an activity fee of $2 \* (weeks living at Von Cramm for the summer).<sup>2</sup> Payment for your security deposit and activity fee is due in full before moving into a room (unless other arrangements have been agreed upon with the summer HM). Housing charges may be paid fully in advance or on a weekly basis in advance of each coming week.<sup>2</sup>
+Housing charges cover room, utilities, laundry, staple meal plan and use of common spaces. To officially reserve a room, members who have not already paid Redbud’s security deposit must pay the $100 fee and all members must sign a contract. Every house member must pay an activity fee of $2 \* (weeks living at Von Cramm Hall for the summer).<sup>2</sup> Payment for your security deposit and activity fee is due in full before moving into a room (unless other arrangements have been agreed upon with the summer HM). Housing charges may be paid fully in advance or on a weekly basis in advance of each coming week.<sup>2</sup>
 
 
 ## Responsibilities
@@ -700,7 +703,7 @@ House managers and emergency personnel reserve the right to enter your room with
 Members that have a guest over for more than 2 days (more than a weekend) should email the house to let them know. Guests staying for 7 or more consecutive days must pay rent and fulfill house responsibilities including late night and chores. Members should also email the house if they plan on having more than 3-4 guests over at any time out of courtesy. Any damage done by a guest will be repaired with money from the host’s security deposit.
 
 ### Social Gatherings
-Any event held at Von Cramm with a proposed attendance of greater than 10 people must be approved by the house via a house meeting vote. Events held at Von Cramm must be open to all house residents. House members can request to use house activity fee funds for their event. House members must propose their event and, if requesting house activity fee funds, a budget to the Summer HM(s) at least 24 hours prior to the house meeting before their proposed event date.  An event which requests house activity fee funds is subject to a special vote (see Section VI). Any other events are subject to a majority vote (see Section VI).<sup>2</sup>
+Any event held at Von Cramm Hall with a proposed attendance of greater than 10 people must be approved by the house via a house meeting vote. Events held at Von Cramm Hall must be open to all house residents. House members can request to use house activity fee funds for their event. House members must propose their event and, if requesting house activity fee funds, a budget to the Summer HM(s) at least 24 hours prior to the house meeting before their proposed event date.  An event which requests house activity fee funds is subject to a special vote (see Section VI). Any other events are subject to a majority vote (see Section VI).<sup>2</sup>
 
 ### Kitchen Sanitation and Etiquette
 * Label all leftovers with your name and the date
@@ -736,11 +739,11 @@ Exterior doors to the house should not be propped open at any time unless a memb
 
 ### Personal Property
 
-Members should feel safe in the house, but ultimately individual members are responsible for maintaining the security of their room and possessions. Von Cramm cannot be held liable for theft or damages.
+Members should feel safe in the house, but ultimately individual members are responsible for maintaining the security of their room and possessions. Redbud cannot be held liable for theft or damages.
 
 ## Infraction of Rules
 
-An infraction of responsibilities happens when a member does not complete their chore or Late Night to satisfaction, and does not make up for it in some way agreed upon way with a summer HM or steward within 24 hours of notification (extenuating circumstances not counted). An infraction of responsibilities also occurs when a house member does not attend house meeting without notifying the Summer HM(s) at least 48 hours in advance.<sup>2</sup> When 3 infractions occur, the member will likely not be invited back to Von Cramm in the future (the following fall semester excluded). When 5 infractions occur, that member is asked to leave. Infractions are set to zero at the beginning of every semester, counting the summer and fall as one semester.
+An infraction of responsibilities happens when a member does not complete their chore or Late Night to satisfaction, and does not make up for it in some way agreed upon way with a summer HM or steward within 24 hours of notification (extenuating circumstances not counted). An infraction of responsibilities also occurs when a house member does not attend house meeting without notifying the Summer HM(s) at least 48 hours in advance.<sup>2</sup> When 3 infractions occur, the member will likely not be invited back to Redbud in the future (the following fall semester excluded). When 5 infractions occur, that member is asked to leave. Infractions are set to zero at the beginning of every semester, counting the summer and fall as one semester.
 
 If any house member severely and repeatedly disobeys any of the house rules listed here, after being warned, they could be asked to leave.
 
