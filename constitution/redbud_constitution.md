@@ -510,7 +510,7 @@ Neither Redbud Cooperative, Inc. nor Von Cramm Hall can operate without sufficie
 7. To present the budget to the membership for discussion
 8. To provide SMC with monthly reports of all financial transactions
 9. To act as liaison with SMC in preparing quarterly financial statements and annual taxes.
-10. To coordinate Redbud’s efforts to maintain charitable actions and donations through VC Cares, an effort established in 2011, and/or involvement in the Inter Cooperative Union (ICU). The House must vote on what the treasurer’s project should be at the beginning of each semester. The treasurer must coordinate with the SHOC to host the VC Cares event. Even if the Treasurer is part of the ICU, the house may vote for another house member to be an ICU Rep.<sup>17</sup>,<sup>29</sup>
+10. To coordinate Redbud’s efforts to maintain charitable actions and donations through RB Cares, an effort established in 2011, and/or involvement in the Inter Cooperative Union (ICU). The House must vote on what the treasurer’s project should be at the beginning of each semester. The treasurer must coordinate with the SHOC to host the RB Cares event. Even if the Treasurer is part of the ICU, the house may vote for another house member to be an ICU Rep.<sup>17</sup>,<sup>29</sup>
 11. To purchase house gift (see Section VII. “Gift Account”).<sup>18</sup>
 See the Bylaws of Von Cramm, Inc and the Treasurer's Handbook by Jim Moss and Dave Burchfield for a more complete description of these duties.
 
@@ -616,7 +616,7 @@ Surplus money in the house checking account shall be kept to a minimum to avoid 
 
 The following guidelines should be taken under consideration and every expenditure above the following should be considered carefully:
 
-* Funds may be put towards meaningful spending (i.e. replacing any existing broken house entertainment or leisure equipment, large scale HIPs, VC Cares matching, etc.).
+* Funds may be put towards meaningful spending (i.e. replacing any existing broken house entertainment or leisure equipment, large scale HIPs, RB Cares matching, etc.).
 * A typical semester sees surplus expenses of no more than $500 (five hundred dollars).
 * House gift is traditionally $500 (five hundred dollars). Any supplementation should not exceed an additional $500 (five hundred dollars).
 * However, any amount may be put into a savings account, CD, or other stable investment account. This does not count as “spending” the money.<sup>1</sup>
@@ -624,14 +624,14 @@ The following guidelines should be taken under consideration and every expenditu
 ## Gift Account
 Up to $500 from the Gift Account may be spent each semester on a house gift. House gift is defined as any luxury item which would not be qualified for purchase by the HMs, stewards, or Fun Team. House members may propose a house gift vote at any time during the semester. The proposed house gift must be approved by a simple majority vote. Any house gift expenditure in excess of $500 may be supplemented by surplus from the checking account if approved by special vote (see Section VII. “Checking Account”). The Treasurer is responsible for house gift purchases in consultation with the member who proposed the house gift vote.<sup>2</sup>
 
-## VC Cares
-Each semester, up to $200 should be set aside for use for a VC Cares event. Money can be used to reimburse associated expenses for house-members who choose to head the VC Cares project for the semester. Like a house gift, the VC Cares budget is first come, first served.
+## RB Cares
+Each semester, up to $200 should be set aside for use for a RB Cares event. Money can be used to reimburse associated expenses for house-members who choose to head the RB Cares project for the semester. Like a house gift, the RB Cares budget is first come, first served.
 
-Any house member can propose at any time in a semester to run a VC Cares event, but the Treasurer is still responsible for reminding and encouraging people to plan a VC Cares event (which can be done as HIP). To hold a VC Cares event, a house-member must bring up the idea at house meeting. The house-member should propose what the VC Cares event should be, and what organization, movement, or group it should be for. The house will then vote by majority with abstentions if they support the VC Cares event and proposed beneficiary organization.
+Any house member can propose at any time in a semester to run a RB Cares event, but the Treasurer is still responsible for reminding and encouraging people to plan a RB Cares event (which can be done as HIP). To hold a RB Cares event, a house-member must bring up the idea at house meeting. The house-member should propose what the RB Cares event should be, and what organization, movement, or group it should be for. The house will then vote by majority with abstentions if they support the RB Cares event and proposed beneficiary organization.
 
-If the house-member has multiple options for organizations, a range vote should be held. In the event that the proposed combination of VC Cares event and beneficiary organization is denied, another house-member may propose the same VC Cares event for a different beneficiary organization.
+If the house-member has multiple options for organizations, a range vote should be held. In the event that the proposed combination of RB Cares event and beneficiary organization is denied, another house-member may propose the same RB Cares event for a different beneficiary organization.
 
-If in a semester there is no VC Cares event and/or no necessary VC Cares reimbursements, the $200 cannot be added up cumulatively to support future VC Cares events (no rollover). Funds should come from the Operating Account (using direct purchase form) but if the operating account cannot be used, the checking account can be used to cover the rest. If the house-member holding the VC Cares event wants more than $200, another majority vote with abstentions must be held to approve the additional money.
+If in a semester there is no RB Cares event and/or no necessary RB Cares reimbursements, the $200 cannot be added up cumulatively to support future RB Cares events (no rollover). Funds should come from the Operating Account (using direct purchase form) but if the operating account cannot be used, the checking account can be used to cover the rest. If the house-member holding the RB Cares event wants more than $200, another majority vote with abstentions must be held to approve the additional money.
 
 
 ### Footnotes
