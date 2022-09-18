@@ -421,7 +421,7 @@ Any questions of procedure that are not addressed here and cannot be solved by d
 
 # VII. House Officers<sup>1</sup>
 
-The following section contains an explicit enumeration of Redbud officer obligations, with the intent to present a succinct description of responsibilities to aid new officers and, more importantly, to clear up any misunderstandings that may arise among officers as to who does what. This listing is not meant to be a substitute for a good officer handbook.
+The following section contains an explicit enumeration of Redbud officer obligations, with the intent to present a succinct description of responsibilities to aid new officers and, more importantly, to clear up any misunderstandings that may arise among officers as to who does what. This listing is not meant to be a substitute for a good officer handbook. If no returning house member runs for a position that requires one, the officer team can open the election to new house members. If a new house member is elected, they must discuss with the officer team to agree on expectations, which can differ from the original set of constitutional rules (e.g., different compensation).<sup>42</sup>
 
 ## House Officer Review<sup>2</sup>
 Any current member can call a vote of confidence at any house meeting to review performance of a House Officer. If the vote passes under the ‘special’ vote procedure, each responsibility listed in the house rules are voted on in a line item format for non-satisfactory completion and must be passed by ‘special’ vote. House Officer monetary compensation shall be reduced proportionately to unsatisfactory completed tasks.
@@ -551,9 +551,10 @@ Their responsibilities include, but are not limited to:
 * Taking care of the compost pile.
 * Taking care of bottle return. 
 * Being fully aware of where our waste goes, what is being wasted, and working on how to minimize our waste in  humanitarian and environmentally sound ways.
-4.  Documenting and informing the house about their research and the progress of their efforts on a monthly basis.
+4.  Documenting and informing the house about their research and the progress of their efforts twice monthly<sup>40</sup>.
 * Delivering a presentation at every other house meeting.
 * Creating a comprehensive document on what actions they have taken and when, and on their ideas and other proposed ideas to be stored on the public Google Drive andor github and accessible to house members and future holders of the position
+* SHOC is expected to have 3-4 projects that will be presented at each house meeting. At the first meeting after the election, they should be expected to present an actionable plan to the house.<sup>41</sup>
 5.  Working with officer team to ensure that house purchases and decisions are durable and ecologically responsible. This includes but is not limited to: food, cleaning supplies, household supplies, furniture purchases, large equipment purchases, etc.
 6.  Working with House Managers on large projects to ensure that they are humanitarian and ecologically responsible efforts. 
 7.  Coordinating with Fun Team to host at least one education event per semester, such as a speaker or documentary screening, open to the greater Cornell community. 
@@ -608,6 +609,9 @@ The Summer House Steward is responsible for overseeing Late Night and buying sta
 * [37] Passed 12/06/2021
 * [38] Passed 03/19/2022
 * [39] Passed 03/19/2022
+* [40] Passed 09/11/2022
+* [41] Passed 09/11/2022
+* [42] Passed 09/11/2022
 
 # VIII. House Funds
 
