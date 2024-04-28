@@ -101,7 +101,7 @@ Admission to reside in Von Cramm Hall for the following academic year is done vi
 * attending two of the Mosey events
 * helping prepare dinner and attending dinner<sup>3</sup>
 
-Any potential house member<sup>14</sup> may be taken out of the selection pool if a current house member privately or publicly raises a serious concern about living with said potential house member<sup>14</sup> to an officer or the house.<sup>4</sup> The President has the authority to waive Mosey requirements if the situation is appropriate; for example, if those applying do not currently reside in Ithaca, or if the selection is less than a few days away. Normally, two people help the President with Mosey as their house projects.
+Any potential house member<sup>14</sup> may be taken out of the selection pool if a current house member privately or publicly raises a serious concern about living with said potential house member<sup>14</sup> to an officer or the house. In this case, the moseyer in question will receive a Rejection notification at the time of mosey decisions. Redbud reserves the right to reject any potential house members if it is deemed that they will negatively impact the Redbud community. The rejection criteria will be determined by the existing house members, but is to be used only in circumstances where there is real concern about a Moseyer’s behaviors and their ability to adhere to the House’s required responsibilities and community guidelines.<sup>4</sup> The President has the authority to waive Mosey requirements if the situation is appropriate; for example, if those applying do not currently reside in Ithaca, or if the selection is less than a few days away. Normally, two people help the President with Mosey as their house projects.
 
 ## Selection for admission to live in Von Cramm Hall
 * The number of residents of any one gender identity will not exceed 60% of house occupancy at the time. The exception to this cap is in the case when there are unfilled openings, but the only people left on the waiting list are of the predominating gender. Priority will be given to people who have completed the mosey process even if their acceptance to Redbud exceeds the cap. However, if the waiting list is exhausted and the house is not yet filled, the spots are opened up to anybody. People are guaranteed a roommate of a gender with which they are comfortable rooming.<sup>5</sup>
@@ -456,7 +456,7 @@ See the Bylaws of Von Cramm, Inc for a more complete description of these duties
 
 Note: The President is the individual ultimately responsible for the activities of the house as a whole. At times, the police demand that a person step forward to take responsibility for any loud gatherings (and risk arrest if the problem    isn’t solved).<sup>9</sup> This is the President's responsibility.
 
-The compensation for the office of President: no house job, no cooking, fall HIP, 1/4 off rent of a single room<sup>10</sup>. The President is elected for a semester.
+The compensation for the office of President: no house job, no cooking, fall HIP, and 6.3% of rent for a single Cornell dorm room.<sup>10</sup>. The President is elected for a semester.
 
 ## House Managers
 The role of House Managers (HMs) is to ensure that Von Cramm Hall is maintained as a clean, well-running facility. This includes, but is not limited to, responsibility for:
@@ -479,7 +479,7 @@ The role of House Managers (HMs) is to ensure that Von Cramm Hall is maintained 
 
 See the Bylaws of Von Cramm, Inc and the House Manager's’ Handbook by Matt Patrick for a more complete description of these duties.
 
-Note: HMs are not responsible for keeping track of contracts in any way. They are not responsible for the small appliances related to meal plan, including but not limited to, the coffee maker, toaster, and blender (this is a Steward responsibility). The compensation for the two House Managers is no house job, no cooking, no HIP, and 1/2 off rent of a single room<sup>13</sup>. House Managers are elected for a year.<sup>14</sup>
+Note: HMs are not responsible for keeping track of contracts in any way. They are not responsible for the small appliances related to meal plan, including but not limited to, the coffee maker, toaster, and blender (this is a Steward responsibility). The compensation for the two House Managers is no house job, no cooking, no HIP, and 11.8% of rent for a single Cornell dorm room.<sup>13</sup>. House Managers are elected for a year.<sup>14</sup>
 
 ## Stewards
 The Stewards are responsible for filling house members' and meal planners'<sup>31</sup> stomachs. This includes, but is not limited to:
@@ -494,7 +494,7 @@ The Stewards are responsible for filling house members' and meal planners'<sup>3
 9. Kitchen Small Appliances: As they are directly related to food preparation, the Stewards are responsible for purchasing all small appliances for the kitchen, including but not limited to: the toaster oven, coffee makers, blender. More expensive items (such as a new fridge, new Beast, or kitchen shelving) should be dealt with by the Stewards, House Managers, and Treasurers together.
 10. Stewards are responsible for finding as many local sources of food as possible. This includes buying local meat and purchasing CSA shares from farms in the region. They are responsible for purchasing and collecting this food.
 
-See the Bylaws of Von Cramm, Inc for a more complete description of these duties. The compensation for the two stewards includes no house job, no cooking, no HIP, and 3/4 off rent for a single room<sup>15</sup>. Stewards are elected for a year.<sup>16</sup>
+See the Bylaws of Von Cramm, Inc for a more complete description of these duties. The compensation for the two stewards includes no house job, no cooking, no HIP, and 17.1% of rent for a single Cornell dorm room.<sup>15</sup> Stewards are elected for a year.<sup>16</sup>
 
 ## Treasurer
 Neither Redbud Cooperative, Inc. nor Von Cramm Hall can operate without sufficient funds. Making sure those funds are available and are used wisely is chiefly the responsibility of the Treasurer of Redbud. It is a responsibility not to be taken lightly. The duties of Treasurer of Redbud are primarily:
@@ -514,7 +514,7 @@ Neither Redbud Cooperative, Inc. nor Von Cramm Hall can operate without sufficie
 11. To purchase house gift (see Section VII. “Gift Account”).<sup>18</sup>
 See the Bylaws of Von Cramm, Inc and the Treasurer's Handbook by Jim Moss and Dave Burchfield for a more complete description of these duties.
 
-The compensation for the office of Treasurer includes no HIP, no cook group, and 1/5 off rent for a single room.<sup>34</sup> The treasurer must do a house chore.<sup>29</sup> The treasurer is elected for a year. If conditions surrounding the meal plan (such as low enrollment of outside meal plan members) makes it necessary, the Treasurer must cook. During semesters in which the treasurer cooks, their compensation should be increased to 1/4 off of rent for a single room.<sup>19</sup><sup>,</sup><sup>20</sup><sup>,</sup><sup>29</sup>
+The compensation for the office of Treasurer includes no HIP, no cook group, and 4.7% of rent for a single Cornell dorm room.<sup>34</sup> The treasurer must do a house chore.<sup>29</sup> The treasurer is elected for a year. If conditions surrounding the meal plan (such as low enrollment of outside meal plan members) makes it necessary, the Treasurer must cook. During semesters in which the treasurer cooks, their compensation should be increased by the difference between not cooking and cooking meal plans.<sup>19</sup><sup>,</sup><sup>20</sup><sup>,</sup><sup>29</sup>
 
 ## Secretary
 The role of Secretary includes, but is not limited to, responsibility for:
@@ -530,7 +530,7 @@ See the Bylaws of Von Cramm, Inc for a more complete description of these duties
 
 Note: The Secretary should search out ways to record, consolidate and organize the written works of Redbud. This may include working with other officers to consolidate handbook materials, conglomerating stuff in the databases, or presenting information (newsletter or important meeting minutes) on our website. One area of overlap: The Secretary should work with the HM to ensure that a scrapbook is made (perhaps as a HIP) at least once a year.
 
-The compensation for the position of Secretary includes no cook group, no HIP, 1/5 off rent for a single room.<sup>35</sup> The Secretary must do a chore.<sup>23</sup><sup>,</sup><sup>24</sup><sup>,</sup><sup>29</sup>
+The compensation for the position of Secretary includes no cook group, no HIP, and 4.9% of rent for a single Cornell dorm room.<sup>35</sup> The Secretary must do a chore.<sup>23</sup><sup>,</sup><sup>24</sup><sup>,</sup><sup>29</sup>
 
 The Secretary is elected for a year.<sup>25</sup><sup>,</sup><sup>26</sup>
 
@@ -559,7 +559,7 @@ Their responsibilities include, but are not limited to:
 6.  Working with House Managers on large projects to ensure that they are humanitarian and ecologically responsible efforts. 
 7.  Coordinating with Fun Team to host at least one education event per semester, such as a speaker or documentary screening, open to the greater Cornell community. 
 
-The compensation for the SHOC includes no HIP, no cook group, and 1/5 off rent for a single room, but must continue to do chores. If conditions surrounding the meal plan (such as low enrollment of outside meal plan members) makes it necessary, the SHOC is the first to be asked to cook. During semesters in which the SHOC cooks, their compensation should be increased to 1/4 off of rent for a single room.<sup>29</sup>
+The compensation for the SHOC includes no HIP, no cook group, and 2.3% of rent for a single Cornell dorm room, but must continue to do chores. If conditions surrounding the meal plan (such as low enrollment of outside meal plan members) makes it necessary, the SHOC is the first to be asked to cook. During semesters in which the SHOC cooks, their compensation should be increased by the difference between not cooking and cooking meal plans.<sup>29</sup>
 
 ## Summer House Manager
 The Summer House Manager performs at least some functions of all officers present during the regular academic semester. These may include collecting summer rent and the activity fee, overseeing chores, and signing in new house members<sup>31</sup>. The Summer HM(s) pays no rent for summer. The Summer HM(s) also do not do a chore nor late night if the house is at 60% capacity or more. At least 50% of the summer officer team must be available for the duration of the entirety of the Summer Housing period. It is expected that the entire summer officer team meets at the beginning of the semester to coordinate schedules and responsibilities and hold regular officer meetings. <sup>36,38</sup> 
